@@ -1,0 +1,14 @@
+node_modules/
+dist/
+build/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+.DS_Store
+.idea/
+.vscode/
+*.js.map
+*.tsbuildinfo
+pnpm-debug.log*
